@@ -56,7 +56,7 @@ export const dataList = [
     color: 'blue',
     rating: 4,
     price: 1000,
-    coverSrc: '/images/list/img1.webp',
+    coverSrc: 'images/list/img1.webp',
   },
   {
     id: 3,
@@ -65,7 +65,7 @@ export const dataList = [
     color: 'blue',
     rating: 3,
     price: 2000,
-    coverSrc: '/images/list/img2.png',
+    coverSrc: 'images/list/img2.png',
   },
   {
     id: 4,
@@ -74,7 +74,7 @@ export const dataList = [
     color: 'grey',
     rating: 1,
     price: 1800,
-    coverSrc: '/images/list/img3.jpg',
+    coverSrc: 'images/list/img3.jpg',
   },
   {
     id: 5,
@@ -83,7 +83,7 @@ export const dataList = [
     color: 'purple',
     rating: 2,
     price: 4100,
-    coverSrc: '/images/list2/w3.jpg',
+    coverSrc: 'images/list2/w3.jpg',
   },
   {
     id: 6,
@@ -92,7 +92,7 @@ export const dataList = [
     color: 'blue',
     rating: 5,
     price: 2000,
-    coverSrc: '/images/list/img4.jpg',
+    coverSrc: 'images/list/img4.jpg',
   },
   {
     id: 7,
@@ -101,7 +101,7 @@ export const dataList = [
     color: 'blue',
     rating: 5,
     price: 3500,
-    coverSrc: '/images/list/img5.png',
+    coverSrc: 'images/list/img5.png',
   },
   {
     id: 8,
@@ -110,7 +110,7 @@ export const dataList = [
     color: 'grey',
     rating: 2,
     price: 2200,
-    coverSrc: '/images/list/img6.jpeg',
+    coverSrc: 'images/list/img6.jpeg',
   },
   {
     id: 9,
@@ -119,7 +119,7 @@ export const dataList = [
     color: 'black',
     rating: 1,
     price: 1900,
-    coverSrc: '/images/list/img7.jpg',
+    coverSrc: 'images/list/img7.jpg',
   },
   {
     id: 10,
@@ -128,7 +128,7 @@ export const dataList = [
     color: 'red',
     rating: 4,
     price: 2750,
-    coverSrc: '/images/list/img8.jpg',
+    coverSrc: 'images/list/img8.jpg',
   },
   {
     id: 11,
@@ -137,7 +137,7 @@ export const dataList = [
      color: 'green',
     rating: 2,
     price: 4350,
-    coverSrc: '/images/list2/w5.webp',
+    coverSrc: 'images/list2/w5.webp',
   },
   {
     id: 12,
@@ -146,7 +146,7 @@ export const dataList = [
     color: 'yellow',
     rating: 3,
     price: 3300,
-    coverSrc: '/images/list2/w2.jpg',
+    coverSrc: 'images/list2/w2.jpg',
   },
 
 ];
