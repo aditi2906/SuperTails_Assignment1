@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SuperTails_Assignment1/static/css/main.4c543a45.chunk.css",
+    "main.js": "/SuperTails_Assignment1/static/js/main.69dbd439.chunk.js",
+    "main.js.map": "/SuperTails_Assignment1/static/js/main.69dbd439.chunk.js.map",
+    "runtime-main.js": "/SuperTails_Assignment1/static/js/runtime-main.f3967a6b.js",
+    "runtime-main.js.map": "/SuperTails_Assignment1/static/js/runtime-main.f3967a6b.js.map",
+    "static/js/2.f55fc3e7.chunk.js": "/SuperTails_Assignment1/static/js/2.f55fc3e7.chunk.js",
+    "static/js/2.f55fc3e7.chunk.js.map": "/SuperTails_Assignment1/static/js/2.f55fc3e7.chunk.js.map",
+    "index.html": "/SuperTails_Assignment1/index.html",
+    "static/css/main.4c543a45.chunk.css.map": "/SuperTails_Assignment1/static/css/main.4c543a45.chunk.css.map",
+    "static/js/2.f55fc3e7.chunk.js.LICENSE.txt": "/SuperTails_Assignment1/static/js/2.f55fc3e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3967a6b.js",
+    "static/js/2.f55fc3e7.chunk.js",
+    "static/css/main.4c543a45.chunk.css",
+    "static/js/main.69dbd439.chunk.js"
+  ]
+}
